@@ -74,6 +74,10 @@ namespace Restaurant
                 Password = passwordInput.Text,
                 IsActive = rdbActive.Checked,
             };
+
+            repo.Add(emp);
+            ClearForm();
+            BindGrid();
         }
     }
 }
