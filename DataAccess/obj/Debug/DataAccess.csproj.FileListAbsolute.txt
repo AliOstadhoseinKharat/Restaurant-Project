@@ -1,0 +1,17 @@
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DataAccess.dll.config
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DataAccess.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DataAccess.pdb
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DomainModel.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\EntityFramework.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\FrameWork.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DomainModel.pdb
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\DomainModel.dll.config
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\FrameWork.pdb
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\EntityFramework.xml
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\obj\Debug\DataAccess.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DataAccess\obj\Debug\DataAccess.pdb

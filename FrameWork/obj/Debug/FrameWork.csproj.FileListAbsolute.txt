@@ -1,0 +1,6 @@
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\bin\Debug\FrameWork.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\bin\Debug\FrameWork.pdb
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\obj\Debug\FrameWork.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\FrameWork\obj\Debug\FrameWork.pdb

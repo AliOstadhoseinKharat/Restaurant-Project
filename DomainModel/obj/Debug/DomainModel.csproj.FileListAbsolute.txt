@@ -1,0 +1,12 @@
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\DomainModel.dll.config
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\DomainModel.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\DomainModel.pdb
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\EntityFramework.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\EntityFramework.xml
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\obj\Debug\DomainMo.6BFF71DD.Up2Date
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\obj\Debug\DomainModel.dll
+D:\tahlil-dade\c#-primary\S6\restaurant-project\DomainModel\obj\Debug\DomainModel.pdb
